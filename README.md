@@ -1,3 +1,3 @@
 # TESTE
-Primeiro repositorio por GitHub
+Primeiro repositório por GitHub
 
