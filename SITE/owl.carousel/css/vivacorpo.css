@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.menu{
+    top: -80px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .9);
+    color: white;
+    position: relative;
+
+    }
+
+.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li{
+    display: inline;
+    position: relative;
+}
+
+.menu a {
+    display: inline-block;
+    padding: 10px 0;
+    width: 200px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: thistle
+}
+
+#capa{
+    width: 70%;
+    position: relative;
+    background-size: cover;
+    margin-left: 300px;
+}
+
+/* ------------------------- */
+
+.container h5{
+    width: 70%;
+    margin-left: 280px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.container img{
+    width:50%;
+    position: relative;
+}
+
+.container ul{
+    margin-left: 280px;
+    text-align: left;
+    font-size: 18px;
+    
+}
+.alongamento iframe{
+    margin-left: 480px;
+}
+.alongamento img{
+    margin-left: 450px;
+}
+
+
+#news {
+    width: 70%;
+	position: relative;
+    
+}
+#news h2 {
+	font-size: 48px;
+	text-transform: uppercase;
+	text-align: center;
+}
+#news hr {
+	width: 200px;
+	margin: 0 auto;
+}
+#news .thumbnails {
+	margin-top: 20px;
+}
+#news .thumbnails h3 {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+#news .thumbnails time {
+	color:#A7A7A7;
+	font-size: 18px;
+}
+#news .thumbnails .item-inner { 
+    padding: 10px; 
+}
+#news .thumbnails .item-inner img { 
+	width: 100%; 
+}
+footer .container{
+    background-color: rgba(0, 0, 0, .9);
+    color: white;
+    position: relative;
+    padding-top: 50px;
+    
+}
+footer button{
+    color: black;
+}
+
+footer p{
+    padding-top: 40px;
+}
+
+footer input{
+    width: 20%;
+}
+
+h1{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+#foto{
+    margin-left: 400px;
+}
