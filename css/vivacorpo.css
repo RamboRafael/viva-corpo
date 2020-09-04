@@ -78,7 +78,8 @@ body{
     margin-left: 480px;
 }
 .alongamento img{
-    margin-left: 450px;
+    position: relative;
+    margin-left: 20rem;
 }
 
 
